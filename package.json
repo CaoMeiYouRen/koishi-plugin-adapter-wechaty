@@ -6,6 +6,7 @@
   "private": false,
   "license": "AGPL-3.0",
   "main": "dist/index.js",
+  "type": "commonjs",
   "scripts": {
     "lint": "cross-env NODE_ENV=production eslint src --fix --ext .ts,.js",
     "release": "semantic-release",

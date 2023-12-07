@@ -16,6 +16,7 @@
         "removeComments": true,
         "resolveJsonModule": true,
         "moduleResolution": "node",
+        "declaration": true,
         "skipLibCheck": true,
         "baseUrl": ".",
         "paths": {
