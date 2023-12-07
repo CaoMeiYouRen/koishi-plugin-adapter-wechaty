@@ -53,7 +53,7 @@ npm install @cao-mei-you-ren/koishi-plugin-adapter-wechaty
 
 ## 👨‍💻 使用
 
-前往插件页面按照引导完成配置
+前往插件页面按照引导完成配置，然后点击启用
 
 ![image-20231207154722362](https://cmyr-picgo.cmyr.ltd/images/202312071547470.png?x-oss-process=style/compressed-picture)
 
@@ -80,6 +80,10 @@ npm install @cao-mei-you-ren/koishi-plugin-adapter-wechaty
 ### wechaty-puppet-wechat
 
 启动插件，并在 Koishi 控制台的『日志』或是 stdout 中查看二维码，扫描登录。
+
+如果一切正常的话，应该可以在日志页面看到如下图片，扫码登录即可
+
+![QQ截图20231207205644](https://cmyr-picgo.cmyr.ltd/images/202312072100520.png?x-oss-process=style/compressed-picture)
 
 ## 🛠️ 开发
 
