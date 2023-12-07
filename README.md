@@ -15,6 +15,7 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
+
 > Koishi Wechaty 适配器
 >
 > 本项目是原 [koishi-plugin-adapter-wechaty](https://code.mycard.moe/3rdeye/koishi-plugin-adapter-wechaty) 的修复版，在最新的 koishi@4.15.7 可用
@@ -128,9 +129,11 @@ npm run commit
 ## 💰 支持
 
 如果觉得这个项目有用的话请给一颗⭐️，非常感谢
+
 <a href="https://afdian.net/@CaoMeiYouRen">
   <img src="https://cdn.jsdelivr.net/gh/CaoMeiYouRen/image-hosting-01@master/images/202306192324870.png" width="312px" height="78px" alt="在爱发电支持我">
 </a>
+
 <a href="https://patreon.com/CaoMeiYouRen">
     <img src="https://cdn.jsdelivr.net/gh/CaoMeiYouRen/image-hosting-01@master/images/202306142054108.svg" width="312px" height="78px" alt="become a patreon"/>
 </a>
