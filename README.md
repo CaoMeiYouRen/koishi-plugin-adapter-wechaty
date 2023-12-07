@@ -1,6 +1,8 @@
 <h1 align="center">@cao-mei-you-ren/koishi-plugin-adapter-wechaty </h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://www.npmjs.com/package/@cao-mei-you-ren/koishi-plugin-adapter-wechaty " target="_blank">
+    <img alt="Version" src="https://img.shields.io/npm/v/@cao-mei-you-ren/koishi-plugin-adapter-wechaty.svg">
+  </a>
   <a href="https://github.com/CaoMeiYouRen/koishi-plugin-adapter-wechaty/actions?query=workflow%3ARelease" target="_blank">
     <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/CaoMeiYouRen/koishi-plugin-adapter-wechaty/release.yml?branch=master">
   </a>
