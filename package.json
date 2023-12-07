@@ -1,6 +1,6 @@
 {
   "name": "@cao-mei-you-ren/koishi-plugin-adapter-wechaty",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Koishi Wechaty 适配器",
   "author": "CaoMeiYouRen",
   "private": false,
