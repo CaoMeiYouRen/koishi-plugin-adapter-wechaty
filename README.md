@@ -21,6 +21,8 @@
 > Koishi Wechaty 适配器
 >
 > 本项目是原 [koishi-plugin-adapter-wechaty](https://code.mycard.moe/3rdeye/koishi-plugin-adapter-wechaty) 的修复版，在最新的 koishi@4.15.7 可用
+>
+> Tips: 关于可用性，目前仅在 Windows 下测试通过，Docker(Linux) 平台自测不通过，macOS 缺乏设备。如果有成功接入的用户，请在 issues 或 discussions 中反馈一下，谢谢。
 
 ## 🏠 主页
 
