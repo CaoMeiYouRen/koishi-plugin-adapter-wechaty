@@ -6,6 +6,17 @@
   "private": false,
   "license": "AGPL-3.0",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "require": "./dist/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "lib",
+    "dist"
+  ],
   "type": "commonjs",
   "scripts": {
     "lint": "cross-env NODE_ENV=production eslint src --fix --ext .ts,.js",
@@ -83,7 +94,7 @@
   },
   "config": {
     "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog-cmyr"
+      "path": "cz-conventional-changelog-cmyr"
     }
   },
   "lint-staged": {
