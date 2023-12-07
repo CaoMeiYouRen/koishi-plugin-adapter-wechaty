@@ -202,7 +202,7 @@ export class WechatyBot<C extends Context = Context> extends Bot<C, WechatyBot.C
             this.selfId = user.id
             this.user = this.user || ({} as any)
             this.user.name = user.name()
-            this.user.avatar = await fileBoxToUrl(await user.avatar()) // await (await user.avatar()).toDataURL()
+            this.user.avatar = await (await user.avatar()).toDataURL() // await fileBoxToUrl(await user.avatar()) //
             this.online()
         })
         this.internal.on('logout', () => {
