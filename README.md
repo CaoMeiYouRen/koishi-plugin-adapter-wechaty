@@ -14,7 +14,7 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="https://github.com/CaoMeiYouRen/koishi-plugin-adapter-wechaty/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+    <img alt="License: AGPL-3.0" src="https://img.shields.io/npm/l/@cao-mei-you-ren/koishi-plugin-adapter-wechaty.svg" />
   </a>
 </p>
 
