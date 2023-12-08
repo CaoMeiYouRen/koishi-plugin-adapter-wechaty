@@ -6,7 +6,7 @@
   <a href="https://github.com/CaoMeiYouRen/koishi-plugin-adapter-wechaty/actions?query=workflow%3ARelease" target="_blank">
     <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/CaoMeiYouRen/koishi-plugin-adapter-wechaty/release.yml?branch=master">
   </a>
-  <img src="https://img.shields.io/badge/node-%3E%3D16-blue.svg" />
+  <img src="https://img.shields.io/node/v/@cao-mei-you-ren/koishi-plugin-adapter-wechaty.svg" />
   <a href="https://github.com/CaoMeiYouRen/koishi-plugin-adapter-wechaty#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
